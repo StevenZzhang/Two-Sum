@@ -1,3 +1,4 @@
+//time complexity is O(n^2)
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         int total = nums.length;
